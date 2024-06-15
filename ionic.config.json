@@ -1,0 +1,7 @@
+{
+  "name": "Barmate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
