@@ -1,0 +1,79 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/profile"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Equipe de Desenvolvimento</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="card-container">
+    <!-- Card 1 -->
+    <div class="card" (click)="flipCard(0)" [class.is-flipped]="isFlipped[0]">
+      <div class="card-inner">
+        <div class="card-front">
+          <div class="img-box">
+            <img src="assets/brenda.jpg" alt="Silhouette of mountains">
+          </div>
+          <ion-card-header>
+            <ion-card-title>Brenda Drewanz Camargo</ion-card-title>
+            <ion-card-subtitle>Matricula: 23107018</ion-card-subtitle>
+          </ion-card-header>
+          <ion-card-content>
+          </ion-card-content>
+        </div>
+        <div class="card-back">
+          <ion-card-content>
+            <h3>Função:</h3>
+            <p>Documentação do projeto, card de promoção, estilização do feed, integração da API res0S e criação de
+              reservas.</p>
+          </ion-card-content>
+        </div>
+      </div>
+    </div>
+    <div class="card" (click)="flipCard(1)" [class.is-flipped]="isFlipped[1]">
+      <div class="card-inner">
+        <div class="card-front">
+          <div class="img-box">
+            <img src="assets/felipe.jpg" alt="Silhouette of mountains">
+          </div>
+          <ion-card-header>
+            <ion-card-title>Felippe Ribeiro Rosa</ion-card-title>
+            <ion-card-subtitle>Matricula: 23108161</ion-card-subtitle>
+          </ion-card-header>
+          <ion-card-content>
+          </ion-card-content>
+        </div>
+        <div class="card-back">
+          <ion-card-content>
+            <h3>Função:</h3>
+            <p>integração da API TheCocktailDB, Filtro do Feed e Cardápio do Feed.</p>
+          </ion-card-content>
+        </div>
+      </div>
+    </div>
+    <div class="card" (click)="flipCard(2)" [class.is-flipped]="isFlipped[2]">
+      <div class="card-inner">
+        <div class="card-front">
+          <div class="img-box">
+            <img src="assets/guilherme.jpg" alt="Silhouette of mountains">
+          </div>
+          <ion-card-header>
+            <ion-card-title>Guilherme Peixoto Duarte</ion-card-title>
+            <ion-card-subtitle>Matricula: 23106660</ion-card-subtitle>
+          </ion-card-header>
+          <ion-card-content>
+          </ion-card-content>
+        </div>
+        <div class="card-back">
+          <ion-card-content>
+            <h3>Função:</h3>
+            <p>Cadastro, Login e Redefinição de senha com integração ao Firebase, pagina de usuário, integração da API
+              Google Maps e acesso.</p>
+          </ion-card-content>
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>
