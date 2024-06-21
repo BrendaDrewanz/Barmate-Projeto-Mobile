@@ -16,8 +16,7 @@ export class GmapsService {
     }
     return new Promise((resolve, reject) => {
       const script = document.createElement('script');
-      script.src =
-        'https://maps.googleapis.com/maps/api/js?key=AIzaSyB8N4f3HxcrD9rUX7xNbPPjbY4Dx-SNxok' 
+      script.src = 'https://maps.googleapis.com/maps/api/js?key=' // API key retirada devido a questõe de segurança do GitHub.
         
       script.async = true;
       script.defer = true;
