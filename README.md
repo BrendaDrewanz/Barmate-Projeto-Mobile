@@ -20,7 +20,7 @@ Uma das principais iniciativas em consideração é o desenvolvimento de um apli
 Como Barmate ainda é novo em seus negócios, sua identidade visual é simples, comparado a grandes nomes como “Barzin Gastrobar Ipanema”, que tem tons esverdeados em seu site e slogan. Barmate tem tons de cinza claro, utilizando um pouco de verde, e tons mais quentes laranja queimado e marrom, como a imagem a seguir:
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1218606975382851599/1226605634665975899/image.png?ex=66771d84&is=6675cc04&hm=599b96c174936ad8ea0e5a3f0e84d8f2f9cd9518f21a157d03ec708c00357f30&=&format=webp&quality=lossless" alt="Texto Alternativo">
+  <img src="https://media.discordapp.net/attachments/1218606975382851599/1226605634665975899/image.png?ex=66771d84&is=6675cc04&hm=599b96c174936ad8ea0e5a3f0e84d8f2f9cd9518f21a157d03ec708c00357f30&=&format=webp&quality=lossless" alt="COLOR-CODE">
 </p>
 
 ### SLOGAN
@@ -47,7 +47,7 @@ Ao iniciar o aplicativo, após preencher o login, aparecerá a tela de feed, com
 As navegações seguintes são: o perfil, onde se pode ver as informações cadastradas anteriormente e a reserva, onde o cliente pode marcar o dia de sua reserva.
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1090377233367056506/1253811305220145293/image.png?ex=66773645&is=6675e4c5&hm=b30ec44c6bf6b692140d0ce48ef6183da163b455dc0ba42222328495a4c6cd28&" alt="Texto Alternativo">
+  <img src="https://cdn.discordapp.com/attachments/1090377233367056506/1253811305220145293/image.png?ex=66773645&is=6675e4c5&hm=b30ec44c6bf6b692140d0ce48ef6183da163b455dc0ba42222328495a4c6cd28&" alt="FUNCIONALIDADES">
 </p>
 
 ## Tecnologias Utilizadas
