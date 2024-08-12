@@ -33,7 +33,7 @@ O slogan "Um copo atrás de outro" é uma escolha estratégica e eficaz para o B
 * Barmate é um lugar conhecido pela sua atmosfera acolhedora e uma excelente seleção de bebidas. O slogan reforça essa identidade, destacando o prazer de saborear várias bebidas em um ambiente agradável.
 
 <p align="center">
-  <img src="./assets/logo.png" alt="Texto Alternativo">
+  <img src="src/assets/logo.png" alt="Texto Alternativo">
 </p>
 
 ### FUNCIONALIDADES DO APLICATIVO
